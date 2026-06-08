@@ -13,13 +13,14 @@ Análisis completo de la base de datos Northwind usando Power BI Desktop.
 <img width="587" height="319" alt="image" src="https://github.com/user-attachments/assets/645ee9a1-8423-4268-b5dd-b6555c1d594b" />
 
 ### 2. Análisis de logística y envíos
-![Dashboard Logística](screenshots/02-logistica.png)
+![Dashboard Logística](2. Análisis de Logística y Envíos (Enfoque de Operaciones))
+<img width="587" height="318" alt="image" src="https://github.com/user-attachments/assets/aa10ea5b-4625-4743-8cbd-d800693304ba" />
 
 ### 3. Gestión de inventario y proveedores
-![Dashboard Inventario](screenshots/03-inventario.png)
+![Dashboard Inventario](3. Gestión de Inventario y Proveedores (Enfoque de Compras))
 
 ### 4. Desempeño del equipo de ventas
-![Dashboard Empleados](screenshots/04-empleados.png)
+![Dashboard Empleados]4. Desempeño del Equipo de Ventas (Enfoque de Recursos Humanos))
 
 ---
 
