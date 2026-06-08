@@ -22,6 +22,7 @@ Análisis completo de la base de datos Northwind usando Power BI Desktop.
 
 ### 4. Desempeño del equipo de ventas
 ![Dashboard Empleados]4. Desempeño del Equipo de Ventas (Enfoque de Recursos Humanos))
+<img width="590" height="333" alt="image" src="https://github.com/user-attachments/assets/b4853307-f896-46fc-a8e7-a9fb56fbebfc" />
 
 ---
 
