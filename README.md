@@ -18,6 +18,7 @@ Análisis completo de la base de datos Northwind usando Power BI Desktop.
 
 ### 3. Gestión de inventario y proveedores
 ![Dashboard Inventario](3. Gestión de Inventario y Proveedores (Enfoque de Compras))
+<img width="586" height="316" alt="image" src="https://github.com/user-attachments/assets/e1eb87ac-f005-44dc-8c5f-39afa8c8bb5b" />
 
 ### 4. Desempeño del equipo de ventas
 ![Dashboard Empleados]4. Desempeño del Equipo de Ventas (Enfoque de Recursos Humanos))
