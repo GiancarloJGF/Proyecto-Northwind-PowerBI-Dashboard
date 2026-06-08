@@ -1,0 +1,9 @@
+REPORTES DE NORTHWIND
+Se espera por parte del analista que realice los reportes aquí presentes y que estos sean publicados de forma semejante al ejemplo del github presente:
+https://github.com/minhaj-313/Amazon-Prime-Video-Dashboard-Using-PowerBi
+El enlace con el scrip de la base de datos de NORTHWIND es el siguiente:
+https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
+
+DESCRIPCIÓN DEL EJERCICIO 
+Para que tu repositorio de GitHub destaque, no hagas un solo reporte masivo. Es mucho mejor crear 3 o 4 reportes especializados (pestañas o archivos independientes) que simulen resolver problemas reales de distintos departamentos de la empresa.
+Antes de empezar, ten en mente cómo se estructuran las tablas para poder hacer tus relaciones en Power BI (especialmente la tabla de hechos Orders y Order Details con sus dimensiones):
