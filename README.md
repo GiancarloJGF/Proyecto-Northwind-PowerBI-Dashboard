@@ -9,7 +9,7 @@ Análisis completo de la base de datos Northwind usando Power BI Desktop.
 ## Screenshots
 
 ### 1. Dashboard de ventas (enfoque ejecutivo)
-![Dashboard Ventas](screenshots/01-ventas.png)
+![Dashboard Ventas](1. Dashboard de Rendimiento de Ventas (Enfoque Ejecutivo))
 
 ### 2. Análisis de logística y envíos
 ![Dashboard Logística](screenshots/02-logistica.png)
